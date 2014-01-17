@@ -1,0 +1,14 @@
+{
+  "name": "hide",
+  "repo": "jb55/hide",
+  "description": "Hide an element",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
