@@ -3,7 +3,7 @@
   "repo": "jb55/hide",
   "description": "Hide an element",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["hide", "display"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
